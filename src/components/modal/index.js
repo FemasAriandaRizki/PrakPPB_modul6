@@ -1,3 +1,4 @@
+// src\components\modal\index.js
 import React from "react";
 import "./index.css";
 export default function index({ isShow, data, onCancel }) {

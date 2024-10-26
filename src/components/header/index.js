@@ -1,3 +1,4 @@
+// src\components\header\index.js
 import React from "react";
 import "./index.css";
 export default function index() {

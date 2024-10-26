@@ -1,3 +1,4 @@
+// src\components\card\index.js
 import React from "react";
 import "./index.css";
 export default function index({ data, onClick }) {
